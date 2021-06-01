@@ -72,7 +72,7 @@ RSpec.describe User, type: :model do
       user = User.create({
         first_name: "karan",
         last_name:"gaba", 
-        email: "   gk  .987680 @GMAil.com", 
+        email: "   gk.987680@GMAil.com   ", 
         password: "12345", 
         password_confirmation: "12345"})
 
