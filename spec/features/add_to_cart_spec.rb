@@ -19,10 +19,10 @@ RSpec.feature "AddToCarts", type: :feature do
     visit root_path
 
     expect(page).to have_text('My Cart (0)')
-    page.save_screenshot("2.png", :full => true)
+    page.save_screenshot("cart_0.png", :full => true)
     click_button('Add',match: :first)
     expect(page).to have_text('My Cart (1)')
-    save_screenshot("3.png", :full => true)
+    save_screenshot("cart_1.png", :full => true)
 
   end
 end

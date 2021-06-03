@@ -24,5 +24,4 @@ class User < ActiveRecord::Base
                 nil
             end
     end    
-    # If the user exists AND the password entered is correct.
 end
