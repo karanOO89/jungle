@@ -31,3 +31,26 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+
+![Screenshot from 2021-06-02 20-12-38](https://user-images.githubusercontent.com/65080348/120576106-7734bb80-c3df-11eb-940c-ff22cb3b89ac.png)
+Products added to the cart
+---------------------------
+![Screenshot from 2021-06-02 20-12-17](https://user-images.githubusercontent.com/65080348/120576107-7734bb80-c3df-11eb-93fe-ead390fe7108.png)
+Details for the products could be seen 
+---------------------------------------
+![Screenshot from 2021-06-02 20-18-14](https://user-images.githubusercontent.com/65080348/120576255-b6630c80-c3df-11eb-973b-a8218f8dad41.png)
+Admin page for adding/deleting categories and products
+---------------------------------------
+![Screenshot from 2021-06-02 20-12-47](https://user-images.githubusercontent.com/65080348/120576105-769c2500-c3df-11eb-9a67-dabcfde04e70.png)
+Items added to cart could be seen here
+---------------------------------------
+![Screenshot from 2021-06-02 20-13-17](https://user-images.githubusercontent.com/65080348/120576101-769c2500-c3df-11eb-85bc-74187cf9d8f2.png)
+Payment gateway
+---------------------------------------
+![Screenshot from 2021-06-02 20-13-28](https://user-images.githubusercontent.com/65080348/120576100-76038e80-c3df-11eb-8f87-54995a3d6634.png)
+Summary after payment is done
+---------------------------------------
+
+
